@@ -14,6 +14,7 @@ vim.opt.rtp:prepend(lazypath)
 -- Example using a list of specs with the default options
 
 require('config.globals')
+require("config.options")
 
 local opts = {
   defaults = {
@@ -39,7 +40,7 @@ local opts = {
         "gzip",
         "matchit",
         "matchparen",
-        "netrwPlugin",
+        -- "netrwPlugin",
         "tarPlugin",
         "tohtml",
         "tutor",
