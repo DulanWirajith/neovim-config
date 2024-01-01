@@ -5,7 +5,13 @@
 `:f <path to file>`
 
 ### Going back to previous open file/buffer
-`ctrl + i` OR  `ctrl + o`
+
+`ctrl + i` OR `ctrl + o`
+
+### for check all options(all vim options)
+
+`:set all`
+https://neovim.io/doc/user/options.html
 
 <!-- USED PLUGINS -->
 
@@ -22,3 +28,7 @@ https://github.com/catppuccin/nvim
 ### whichkey.nvim
 
 https://github.com/folke/which-key.nvim
+
+### nvim tree
+
+https://github.com/nvim-tree/nvim-tree.lua
