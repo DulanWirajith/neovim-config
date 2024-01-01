@@ -35,3 +35,6 @@ https://github.com/nvim-tree/nvim-tree.lua
 
 ### LuaSnip
 https://github.com/L3MON4D3/LuaSnip
+
+### Telescope
+https://github.com/nvim-telescope/telescope.nvim
