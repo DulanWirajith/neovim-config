@@ -54,3 +54,7 @@ keymap.set("n", "<C-w><down>", "<C-w>-")
 -- Comments
 vim.api.nvim_set_keymap("n", "<C-_>", "gcc", { desc = "Comment line", noremap = false})
 vim.api.nvim_set_keymap("v", "<C-_>", "gcc", { desc = "Comment line", noremap = false})
+
+-- Indenting
+keymap.set("v", "<", "<gv")
+keymap.set("v", ">", ">gv")
