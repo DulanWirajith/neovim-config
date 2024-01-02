@@ -38,3 +38,6 @@ https://github.com/L3MON4D3/LuaSnip
 
 ### Telescope
 https://github.com/nvim-telescope/telescope.nvim
+
+### Comments
+https://github.com/numToStr/Comment.nvim?tab=readme-ov-file
